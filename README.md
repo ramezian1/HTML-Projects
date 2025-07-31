@@ -1,4 +1,6 @@
-# HTML Scripts Collection - Robert Mezian
+# HTML Scripts Collection
+by Robert Mezian
+
 
 This project showcases 8 projects I've built using **JavaScript**, **HTML**, and **CSS**. You can browse through my work, explore the source code, and get in touch if you'd like to collaborate.
 
